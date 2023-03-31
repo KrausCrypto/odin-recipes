@@ -1,0 +1,1 @@
+In this project I will be creating a simple website that displays a few recipes. It will help me work on using various HTML Tags and getting used to HTML in general.
